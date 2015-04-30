@@ -1,0 +1,4 @@
+C:\Users\436270\Documents\ProficiencyTest\ProficiencyTest\bin\Debug\ProficiencyTest.exe
+C:\Users\436270\Documents\ProficiencyTest\ProficiencyTest\bin\Debug\ProficiencyTest.pdb
+C:\Users\436270\Documents\ProficiencyTest\ProficiencyTest\obj\x86\Debug\ProficiencyTest.exe
+C:\Users\436270\Documents\ProficiencyTest\ProficiencyTest\obj\x86\Debug\ProficiencyTest.pdb
