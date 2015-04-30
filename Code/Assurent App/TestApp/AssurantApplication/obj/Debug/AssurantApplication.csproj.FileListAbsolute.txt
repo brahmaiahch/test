@@ -1,0 +1,251 @@
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.dll
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.pdb
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.dll.mdb
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication.apk
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication-Signed.apk
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantModel.dll
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantModel.pdb
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantModel.dll.mdb
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AndroidSDKLibrary.pdb
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll.mdb
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\AssurantApplication.csprojResolveAssemblyReference.cache
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\AssurantApplication.dll
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\AssurantApplication.pdb
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\android\bin\AssurantApplication.AssurantApplication.apk
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\strings.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\icon.png
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\layout\home.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\layout\login.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\layout\message.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\assurant.png
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\rectangle_header.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\splash_gradient.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\submit_btn.png
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\attrs.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\colors.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\dimens.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\xml\authenticator.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\xml\syncadapter.xml
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\R.cs.flag
+D:\R10_Obfuscated\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\uploadflags.txt
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.dll
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.pdb
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.dll.mdb
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication.apk
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication-Signed.apk
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantModel.dll
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantModel.pdb
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantModel.dll.mdb
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AndroidSDKLibrary.pdb
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll.mdb
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\AssurantApplication.dll
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\AssurantApplication.pdb
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\android\bin\AssurantApplication.AssurantApplication.apk
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\strings.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\icon.png
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\layout\home.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\layout\login.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\layout\message.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\assurant.png
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\rectangle_header.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\splash_gradient.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\submit_btn.png
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\attrs.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\colors.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\dimens.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\xml\authenticator.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\xml\syncadapter.xml
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\logo_icon.png
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\R.cs.flag
+D:\R10_DTBKP\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\uploadflags.txt
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.dll
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.pdb
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.dll.mdb
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication.apk
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication-Signed.apk
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\BreakdownAppModel.dll
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\BreakdownAppModel.pdb
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\BreakdownAppModel.dll.mdb
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AndroidSDKLibrary.pdb
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll.mdb
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\AssurantApplication.csprojResolveAssemblyReference.cache
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\AssurantApplication.dll
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\AssurantApplication.pdb
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\android\bin\AssurantApplication.AssurantApplication.apk
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\strings.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\icon.png
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\layout\home.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\layout\login.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\layout\message.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\assurant.png
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\rectangle_header.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\splash_gradient.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\submit_btn.png
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\attrs.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\colors.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\values\dimens.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\xml\authenticator.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\xml\syncadapter.xml
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\res\drawable\logo_icon.png
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\R.cs.flag
+D:\R11\Assurant\Application\AssurantApplication\AssurantApplication\obj\Debug\uploadflags.txt
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.pdb
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll.mdb
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication.apk
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication-Signed.apk
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.dll
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.pdb
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll.mdb
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.pdb
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.dll.mdb
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\AssurantApplication.csprojResolveAssemblyReference.cache
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\AssurantApplication.dll
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\AssurantApplication.pdb
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\android\bin\AssurantApplication.AssurantApplication.apk
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\values\strings.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\drawable\icon.png
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\layout\home.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\layout\login.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\layout\message.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\drawable\assurant.png
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\drawable\rectangle_header.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\drawable\splash_gradient.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\drawable\submit_btn.png
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\values\attrs.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\values\colors.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\values\dimens.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\xml\authenticator.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\xml\syncadapter.xml
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\res\drawable\logo_icon.png
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\R.cs.flag
+E:\Venkatesh_Mob\Xamarin\Assurant\App\TestApp\AssurantApplication\obj\Debug\uploadflags.txt
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\AssurantApplication.pdb
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll.mdb
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication.apk
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication-Signed.apk
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.dll
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.pdb
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.dll.mdb
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.pdb
+E:\Assurent\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll.mdb
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\AssurantApplication.csprojResolveAssemblyReference.cache
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\AssurantApplication.dll
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\AssurantApplication.pdb
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\android\bin\AssurantApplication.AssurantApplication.apk
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\values\strings.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\drawable\icon.png
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\layout\home.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\layout\login.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\layout\message.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\drawable\assurant.png
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\drawable\rectangle_header.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\drawable\splash_gradient.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\drawable\submit_btn.png
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\values\attrs.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\values\colors.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\values\dimens.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\xml\authenticator.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\xml\syncadapter.xml
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\res\drawable\logo_icon.png
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\R.cs.flag
+E:\Assurent\TestApp\AssurantApplication\obj\Debug\uploadflags.txt
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\AssurantApplication.pdb
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll.mdb
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication.apk
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\AssurantApplication.AssurantApplication-Signed.apk
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.dll
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.pdb
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.dll.mdb
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.pdb
+E:\Assurent\Android\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll.mdb
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\AssurantApplication.dll
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\AssurantApplication.pdb
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\android\bin\AssurantApplication.AssurantApplication.apk
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\values\strings.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\drawable\icon.png
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\layout\login.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\layout\message.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\drawable\assurant.png
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\drawable\rectangle_header.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\drawable\splash_gradient.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\drawable\submit_btn.png
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\values\attrs.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\values\colors.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\values\dimens.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\xml\authenticator.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\xml\syncadapter.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\drawable\logo_icon.png
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\res\layout\home.xml
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\R.cs.flag
+E:\Assurent\Android\TestApp\AssurantApplication\obj\Debug\uploadflags.txt
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.pdb
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll.mdb
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\AssurantApplicationss.AssurantApplications.apk
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\AssurantApplicationss.AssurantApplications-Signed.apk
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.dll
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.pdb
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.dll.mdb
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.pdb
+C:\Users\Public\R14 App\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll.mdb
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\AssurantApplication.csprojResolveAssemblyReference.cache
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\AssurantApplication.dll
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\AssurantApplication.pdb
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\android\bin\AssurantApplicationss.AssurantApplications.apk
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\values\strings.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\drawable\icon.png
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\layout\login.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\layout\message.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\drawable\assurant.png
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\drawable\rectangle_header.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\drawable\splash_gradient.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\drawable\submit_btn.png
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\values\attrs.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\values\colors.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\values\dimens.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\xml\authenticator.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\xml\syncadapter.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\drawable\logo_icon.png
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\res\layout\home.xml
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\R.cs.flag
+C:\Users\Public\R14 App\TestApp\AssurantApplication\obj\Debug\uploadflags.txt
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.pdb
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll.mdb
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\AssurantApplicationss.AssurantApplications.apk
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\AssurantApplicationss.AssurantApplications-Signed.apk
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\DigitalHubModel.Android.dll
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.pdb
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\AndroidSDKLibrary.dll.mdb
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\AssurantApplication.csprojResolveAssemblyReference.cache
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\AssurantApplication.dll
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\AssurantApplication.pdb
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\android\bin\AssurantApplicationss.AssurantApplications.apk
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\values\strings.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\drawable\icon.png
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\layout\login.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\layout\message.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\drawable\assurant.png
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\drawable\rectangle_header.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\drawable\splash_gradient.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\drawable\submit_btn.png
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\values\attrs.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\values\colors.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\values\dimens.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\xml\authenticator.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\xml\syncadapter.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\drawable\logo_icon.png
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\res\layout\home.xml
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\R.cs.flag
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\obj\Debug\uploadflags.txt

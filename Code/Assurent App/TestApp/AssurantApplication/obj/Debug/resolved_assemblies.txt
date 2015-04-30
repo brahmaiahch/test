@@ -1,0 +1,8 @@
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\bin\Debug\AssurantApplication.dll
+E:\Assurent\R14\AndroidSDKLibrary\bin\Release\AndroidSDKLibrary.dll
+E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\DigitalHubModel.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.0\Mono.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll

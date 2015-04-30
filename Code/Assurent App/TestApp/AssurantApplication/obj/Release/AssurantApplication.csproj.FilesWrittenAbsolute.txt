@@ -1,0 +1,50 @@
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/MonoAndroid,Version=v4.1.AssemblyAttribute.cs
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/bin/Release/AssurantApplication.dll
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/bin/Release/AssurantApplication.AssurantApplication.apk
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/android/bin/AssurantApplication.AssurantApplication.apk
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/values/strings.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/drawable/icon.png
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/layout/home.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/layout/login.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/layout/message.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/drawable/assurant.png
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/drawable/rectangle_header.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/drawable/splash_gradient.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/drawable/submit_btn.png
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/values/attrs.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/values/colors.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/values/dimens.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/xml/authenticator.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/xml/syncadapter.xml
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/res/drawable/logo_icon.png
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/R.cs.flag
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/bin/Release/AssurantApplication.AssurantApplication-Signed.apk
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/uploadflags.txt
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/obj/Release/AssurantApplication.dll
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/bin/Release/AndroidSDKLibrary.dll
+/Users/cognizant/Documents/Assurent/TestApp/AssurantApplication/bin/Release/DigitalHubModel.Android.dll
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/MonoAndroid,Version=v4.1.AssemblyAttribute.cs
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/bin/Release/AssurantApplication.dll
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/bin/Release/AssurantApplication.AssurantApplication.apk
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/android/bin/AssurantApplication.AssurantApplication.apk
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/values/strings.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/drawable/icon.png
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/layout/home.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/layout/login.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/layout/message.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/drawable/assurant.png
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/drawable/rectangle_header.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/drawable/splash_gradient.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/drawable/submit_btn.png
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/values/attrs.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/values/colors.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/values/dimens.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/xml/authenticator.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/xml/syncadapter.xml
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/res/drawable/logo_icon.png
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/R.cs.flag
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/bin/Release/AssurantApplication.AssurantApplication-Signed.apk
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/uploadflags.txt
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/obj/Release/AssurantApplication.dll
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/bin/Release/AndroidSDKLibrary.dll
+/Users/cognizant/Desktop/Assurant Obfuscated/Android/TestApp/AssurantApplication/bin/Release/DigitalHubModel.Android.dll

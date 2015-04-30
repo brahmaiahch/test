@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProjectGuid>{0B85BF9B-B7AE-4871-91BD-F6641814C485}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AssurantApplication</RootNamespace>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AssemblyName>AssurantApplication</AssemblyName>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <ConsolePause>false</ConsolePause>
+    <AndroidSupportedAbis>armeabi;armeabi-v7a;x86</AndroidSupportedAbis>
+    <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <JavaMaximumHeapSize>3G</JavaMaximumHeapSize>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Mono.Android" />
+    <Reference Include="AndroidSDKLibrary">
+      <HintPath>..\..\..\AndroidSDKLibrary\bin\Release\AndroidSDKLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="DigitalHubModel.Android">
+      <HintPath>DigitalHubModel.Android.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="HomeActivity.cs" />
+    <Compile Include="LoginActivity.cs" />
+    <Compile Include="MessageActivity.cs" />
+    <Compile Include="EPSType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\Strings.xml" />
+    <AndroidResource Include="Resources\drawable\Icon.png" />
+    <AndroidResource Include="Resources\layout\Login.axml" />
+    <AndroidResource Include="Resources\layout\Message.axml" />
+    <AndroidResource Include="Resources\drawable\Assurant.png" />
+    <AndroidResource Include="Resources\drawable\rectangle_header.xml" />
+    <AndroidResource Include="Resources\drawable\splash_gradient.xml" />
+    <AndroidResource Include="Resources\drawable\submit_btn.png" />
+    <AndroidResource Include="Resources\values\attrs.xml" />
+    <AndroidResource Include="Resources\values\colors.xml" />
+    <AndroidResource Include="Resources\values\dimens.xml" />
+    <AndroidResource Include="Resources\xml\authenticator.xml" />
+    <AndroidResource Include="Resources\xml\syncadapter.xml" />
+    <AndroidResource Include="Resources\drawable\logo_icon.png" />
+    <AndroidResource Include="Resources\layout\Home.axml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
+  <ItemGroup />
+  <ItemGroup>
+    <AndroidNativeLibrary Include="libs\armeabi-v7a\libdatabase_sqlcipher.so" />
+    <AndroidNativeLibrary Include="libs\armeabi-v7a\libencryption-sdk.so" />
+    <AndroidNativeLibrary Include="libs\armeabi-v7a\libsqlcipher_android.so" />
+    <AndroidNativeLibrary Include="libs\armeabi-v7a\libstlport_shared.so" />
+    <AndroidNativeLibrary Include="libs\armeabi\libdatabase_sqlcipher.so" />
+    <AndroidNativeLibrary Include="libs\armeabi\libencryption-sdk.so" />
+    <AndroidNativeLibrary Include="libs\armeabi\libsqlcipher_android.so" />
+    <AndroidNativeLibrary Include="libs\armeabi\libstlport_shared.so" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\icudt46l.zip" />
+    <AndroidAsset Include="Assets\MetaJSON_8.txt" />
+  </ItemGroup>
+</Project>

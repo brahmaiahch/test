@@ -1,0 +1,2 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"><solid android:color="@color/app_headingLayout" /><!--  <stroke android:width="@dimen/arrow_line_size" android:color="@color/app_line_color"/>
+    <corners android:radius="3dp" /> --></shape>

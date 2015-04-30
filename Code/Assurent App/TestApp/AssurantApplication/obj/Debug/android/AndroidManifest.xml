@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="AssurantApplicationss.AssurantApplications">
+  <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="21" />
+  <application android:label="AssurantApplication" android:icon="@drawable/assurant" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:name="com.cognizant.trumobi.appintegration.clientsdk.notification.RedirectionActivity" android:theme="@android:style/Theme.NoDisplay">
+      <intent-filter android:priority="2147483647">
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <data android:host="cm.cognizant.com" android:scheme="http" />
+        <data android:host="cm.cognizant.com" android:scheme="https" />
+      </intent-filter>
+    </activity>
+    <activity android:name="com.cognizant.trumobi.appintegration.clientsdk.activity.DeviceRegistrationActivity" android:label="@string/app_name" />
+    <service android:name="com.cognizant.trumobi.appintegration.clientsdk.notification.GCMIntentService" />
+    <service android:name="com.cognizant.trumobi.appintegration.clientsdk.notification.NotificationParserService" />
+    <service android:name="com.cognizant.trumobi.appintegration.clientsdk.core.SyncManager$SycnAsService" />
+    <service android:name="com.cognizant.trumobi.appintegration.clientsdk.core.SyncService" android:exported="true">
+      <intent-filter>
+        <action android:name="android.content.SyncAdapter" />
+      </intent-filter>
+      <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/syncadapter" />
+    </service>
+    <service android:name="com.cognizant.trumobi.appintegration.clientsdk.core.GenericAccountService">
+      <intent-filter>
+        <action android:name="android.accounts.AccountAuthenticator" />
+      </intent-filter>
+      <meta-data android:name="android.accounts.AccountAuthenticator" android:resource="@xml/authenticator" />
+    </service>
+    <receiver android:name="com.cognizant.trumobi.appintegration.clientsdk.notification.GCMBroadcastReceiver" android:exported="true" android:permission="com.google.android.c2dm.permission.SEND">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+        <category android:name="com.cognizant.trumobi.appintegration.clientsdk" />
+      </intent-filter>
+    </receiver>
+    <meta-data android:name="Protect" android:value="false" />
+    <meta-data android:name="isDeviceMappingRequired" android:value="false" />
+    <!--		<provider android:name="com.cognizant.trumobi.appintegration.clientsdk.core.ClientSDKProvider" android:authorities="com.cognizant.trumobi.appintegration.clientsdk" android:grantUriPermissions="true" android:exported="true" android:multiprocess="true"></provider>-->
+    <activity android:label="AssurantApplication" android:name="assurantapplication.HomeActivity" />
+    <activity android:configChanges="keyboardHidden|orientation" android:label="AssurantApplication" android:name="assurantapplication.LoginActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="MessageActivity" android:name="assurantapplication.MessageActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="AssurantApplicationss.AssurantApplications.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.AssurantApplicationss.AssurantApplications" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+  <uses-permission android:name="android.permission.RECEIVE_SMS" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+  <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+  <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+  <uses-permission android:name="com.cognizant.trumobi.appintegration.clientsdk.permission.C2D_MESSAGE" />
+  <permission android:name="com.cognizant.trumobi.appintegration.clientsdk.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+</manifest>

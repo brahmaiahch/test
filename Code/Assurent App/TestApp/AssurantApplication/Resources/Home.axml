@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="1000dp">
+    <Button
+        android:text="Sync"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Sync" />
+    <Button
+        android:text="Break DownInfo Create"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBreakDownInfo" />
+    <Button
+        android:text="Eligible Customer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnEligibleCustomer" />
+    <Button
+        android:text="Eligible Customer Email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnEligibleCustomerEmail" />
+    <Button
+        android:text="OTP Create"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnOTPCreate" />
+    <Button
+        android:text="OTP Validate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnOTPValidate" />
+    <Button
+        android:text="Form Definitions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFormDefinitions" />
+    <Button
+        android:text="Form Definition Namw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFormDefinitions" />
+    <Button
+        android:text="Form Collecction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFormCollection" />
+    <Button
+        android:text="Form Collecction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFormCollection" />
+    <Button
+        android:text="Form Post"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFormPost" />
+    <Button
+        android:text="Get Form"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnGetForm" />
+    <Button
+        android:text="Form Update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFormUpdate" />
+    <Button
+        android:text="Form Delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFormDelete" />
+    <Button
+        android:text="Create Customer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCreateCustomer" />
+    <Button
+        android:text="GetCustomerWithID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCustomerWithID" />
+</LinearLayout>

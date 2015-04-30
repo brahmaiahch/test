@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">AssurantApplication</string>
+	<string name="message_part2">Message Part 2</string>
+	<string name="heading_title">Title</string>
+	<string name="message_part1">Message Part 1</string>
+	<string name="app_identifier">com.cognizant.trumobi.appintegration.clientsdk</string>
+</resources>

@@ -1,0 +1,48 @@
+﻿<Properties StartupItem="AssurantApplication\AssurantApplication.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssurantApplication\Resources\Resource.designer.cs">
+    <Files>
+      <File FileName="AssurantApplication\HomeActivity.cs" Line="480" Column="8" />
+      <File FileName="AssurantApplication\EPSType.cs" Line="1" Column="1" />
+      <File FileName="AssurantApplication\MessageActivity.cs" Line="1" Column="1" />
+      <File FileName="e:\Assurent\R14\Assurent App\TestApp\AssurantApplication\LoginActivity.cs" Line="1" Column="1" />
+      <File FileName="AssurantApplication\Properties\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="AssurantApplication\obj\Debug\android\src\assurantapplication\HomeActivity_TJProgressHandlerCreate.java" Line="1" Column="1" />
+      <File FileName="AssurantApplication\Resources\Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="AssurantApplication\Resources\AboutResources.txt" Line="1" Column="1" />
+      <File FileName="AssurantApplication\Resources\values\attrs.xml" Line="1" Column="1" />
+      <File FileName="AssurantApplication\Resources\values\colors.xml" Line="1" Column="1" />
+      <File FileName="AssurantApplication\Resources\xml\syncadapter.xml" Line="1" Column="1" />
+      <File FileName="AssurantApplication\Resources\xml\authenticator.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Public\R14 App\TestApp\AssurantApplication\HomeActivity.cs" line="505" column="1" />
+      <Breakpoint file="C:\Users\Public\R14 App\TestApp\AssurantApplication\HomeActivity.cs" line="408" column="101" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="261" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="1007" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="1027" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="1045" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="779" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="1160" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="1346" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\LoginActivity.cs" line="367" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="502" column="114" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="196" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="1065" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="145" column="43" />
+      <Breakpoint file="e:\Assurent\R14\Assurent App\TestApp\AssurantApplication\LoginActivity.cs" line="469" column="1" />
+      <Breakpoint file="e:\Assurent\R14\Assurent App\TestApp\AssurantApplication\LoginActivity.cs" line="250" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="63" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="1232" column="1" />
+      <Breakpoint file="e:\Assurent\R14\Assurent App\TestApp\AssurantApplication\LoginActivity.cs" line="490" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="1080" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="815" column="1" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="471" column="191" />
+      <Breakpoint file="E:\Assurent\R14\Assurent App\TestApp\AssurantApplication\HomeActivity.cs" line="839" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AssurantApplication AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
